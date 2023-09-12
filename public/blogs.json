@@ -3,45 +3,51 @@
     "id": "1",
     "cover": "https://i.ibb.co/rwWTPrR/1684580579213-6.jpg",
     "title": "Sample Book 1",
-    "author_img": "https://example.com/author1.jpg",
+    "author_img": "https://i.ibb.co/jGcc4Tj/boy1.png",
     "posted_date": "2023-09-11",
     "reading_time": 120,
-    "hashtags": ["fiction", "adventure"]
+    "hashtags": ["fiction", "adventure"],
+    "author" :"Manik sarker"
   },
   {
     "id": "2",
     "cover": "https://i.ibb.co/Z1LkCpF/1684580578974.jpg",
     "title": "Sample Book 2",
-    "author_img": "https://example.com/author2.jpg",
+    "author_img": "https://i.ibb.co/9wvf0qG/boy2.jpg",
     "posted_date": "2023-09-10",
     "reading_time": 180,
-    "hashtags": ["mystery", "thriller"]
+    "hashtags": ["mystery", "thriller"],
+    "author" :"Manik sarker"
+    
   },
   {
     "id": "3",
     "cover": "https://i.ibb.co/tccYCq2/1684580579260.jpg",
     "title": "Sample Book 3",
-    "author_img": "https://example.com/author3.jpg",
+    "author_img": "https://i.ibb.co/4434PPr/girl1.jpg",
     "posted_date": "2023-09-09",
     "reading_time": 90,
-    "hashtags": ["romance", "fantasy"]
+    "hashtags": ["romance", "fantasy"],
+    "author" :"Manik sarker"
   },
   {
     "id": "4",
     "cover": "https://i.ibb.co/WBCRHXy/1684580579248-1.jpg",
     "title": "Sample Book 4",
-    "author_img": "https://example.com/author4.jpg",
+    "author_img": "https://i.ibb.co/Y23R562/girl2.jpg",
     "posted_date": "2023-09-08",
     "reading_time": 240,
-    "hashtags": ["sciencefiction", "space"]
+    "hashtags": ["sciencefiction", "space"],
+    "author" :"Manik sarker"
   },
   {
     "id": "5",
     "cover": "https://i.ibb.co/7bQKTB8/1684580579272.jpg",
     "title": "Sample Book 5",
-    "author_img": "https://example.com/author5.jpg",
+    "author_img": "https://i.ibb.co/Y23R562/girl2.jpg",
     "posted_date": "2023-09-07",
     "reading_time": 60,
-    "hashtags": ["cooking", "food"]
+    "hashtags": ["cooking", "food"],
+    "author" :"Manik sarker"
   }
 ]
